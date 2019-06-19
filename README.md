@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/license-MIT-orange.svg)
 
 # 前言
-参照https://github.com/liuyangjike/react-elm学习react，感谢liuyangjike。学习者可参考这位大神。
+参照 https://github.com/liuyangjike/react-elm 学习react，感谢liuyangjike。学习者可参考这位大神。
 
 # 技术栈
 react4 + react-redux + react-router + es6 + axios + sass + webpack
